@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @marijatech
-- 👀 I’m interested in programing and tech world 
-- 🌱 I’m currently learning everything about software industry
-- 💞️ I’m looking to collaborate on different and various projects!
+👋 Hi, I’m @marijatech
+ | 🌐 Software Engineer turned Data Analyst |  Passionate about data-driven insights and storytelling 📊
 
 <!---
 marijatech/marijatech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
