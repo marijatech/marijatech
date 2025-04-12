@@ -10,7 +10,10 @@
 ---
 
 ### 📈 Marija's GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marijatech)](https://github.com/marijatech/github-readme-stats)
+## 📊 Marija's GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marijatech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+
 
 | Total Stars Earned | Total Commits | Total Projects | Total Issues | Contributed to (last year) |
 |--------------------|----------------|----------------|--------------|-----------------------------|
