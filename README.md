@@ -27,10 +27,6 @@
   </tr>
 </table>
 
-
-<!-- GitHub Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=marijatech&theme=algolia&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 💻 Tech Stack
 
 [![](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)]()
