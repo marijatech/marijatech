@@ -3,7 +3,7 @@
 💻 Data Analyst sharing my projects and growth in tech   
 🎓 Graduated in Software and Data Engineering  
 📊 Passionate about data storytelling, dashboards & automation  
-📚 Currently learning data analytics and Spanish   
+📚 Currently learning Spanish   
 🔍 Exploring opportunities in analytics, BI, and insights generation  
 🧠 Forever curious. Always building something new!
 
