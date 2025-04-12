@@ -7,12 +7,10 @@
 🔍 Exploring opportunities in analytics, BI, and insights generation  
 🧠 Forever curious. Always building something new!
 
----
 
-### 📈 Marija's GitHub Stats
 ## 📊 Marija's GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=marijatech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marijatech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
 
 
 | Total Stars Earned | Total Commits | Total Projects | Total Issues | Contributed to (last year) |
