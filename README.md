@@ -28,6 +28,9 @@
 </table>
 
 
+<!-- GitHub Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=marijatech&theme=algolia&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 💻 Tech Stack
 
 [![](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)]()
@@ -47,23 +50,13 @@
 📌 [Telecom Customer Churn Analysis](https://github.com/marijatech/Telecom-Churn-Analysis)  
 📌 [HR Analytics: Excel & Power BI insights](https://github.com/marijatech)
 
----
+## 🔥 Contribution Activity
+
+[![Marija's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marijatech&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 💌 Let's connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/djuricmarija/)
 - 💻 [Portfolio](https://marijatech.github.io/Portfolio/)
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=marijatech&theme=algolia&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Marija's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marijatech&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![](https://komarev.com/ghpvc/?username=marijatech&label=Profile+Views&color=brightgreen)
-
-
-
-
-
 
 
