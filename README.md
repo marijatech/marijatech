@@ -10,8 +10,6 @@
 
 ## 📊 Marija's GitHub Stats
 
-<h3>📊 GitHub Summary</h3>
-
 <table>
   <tr>
     <th>⭐ Total Stars Earned</th>
@@ -29,12 +27,6 @@
   </tr>
 </table>
 
-
-| Total Stars Earned | Total Commits | Total Projects | Total Issues | Contributed to (last year) |
-|--------------------|----------------|----------------|--------------|-----------------------------|
-|        12          |      389       |       8        |      3       |             2              |
-
----
 
 ## 💻 Tech Stack
 
