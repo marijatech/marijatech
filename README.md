@@ -9,9 +9,25 @@
 
 
 ## 📊 Marija's GitHub Stats
-[![Marija's github stats](https://github-readme-stats.vercel.app/api?username=marijatech&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/marijatech/github-readme-stats)
 
+<h3>📊 GitHub Summary</h3>
 
+<table>
+  <tr>
+    <th>⭐ Total Stars Earned</th>
+    <th>📈 Total Commits</th>
+    <th>📂 Total Projects</th>
+    <th>🐛 Total Issues</th>
+    <th>🌍 Contributed To</th>
+  </tr>
+  <tr>
+    <td align="center">12</td>
+    <td align="center">389</td>
+    <td align="center">8</td>
+    <td align="center">3</td>
+    <td align="center">2</td>
+  </tr>
+</table>
 
 
 | Total Stars Earned | Total Commits | Total Projects | Total Issues | Contributed to (last year) |
