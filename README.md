@@ -19,7 +19,7 @@
 
 ### 🧰 Tech Stack
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat)  <br>
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)  
@@ -39,6 +39,6 @@
 
 ### 💌 Let's connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/marijatech/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/djuricmarija/)
 - 💻 [Portfolio](https://marijatech.github.io/Portfolio/)
 
