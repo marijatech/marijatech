@@ -54,3 +54,16 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/djuricmarija/)
 - 💻 [Portfolio](https://marijatech.github.io/Portfolio/)
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=marijatech&theme=algolia&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Marija's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marijatech&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://komarev.com/ghpvc/?username=marijatech&label=Profile+Views&color=brightgreen)
+
+
+
+
+
+
+
