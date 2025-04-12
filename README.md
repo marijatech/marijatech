@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Marija!</h1>
 
-💻 Aspiring Data Analyst sharing my projects and growth in tech   
+💻 Data Analyst sharing my projects and growth in tech   
 🎓 Graduated in Software and Data Engineering  
 📊 Passionate about data storytelling, dashboards & automation  
 📚 Currently learning Spanish   
