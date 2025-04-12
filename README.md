@@ -9,7 +9,8 @@
 
 
 ## 📊 Marija's GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=marijatech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+[![Marija's github stats](https://github-readme-stats.vercel.app/api?username=marijatech&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/marijatech/github-readme-stats)
+
 
 
 
