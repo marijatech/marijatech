@@ -1,3 +1,7 @@
+<!-- 
+SEO META: 
+marijatech | E-commerce Sales Dashboard | Power BI Project | SQL Analysis | Data Analyst Portfolio | Darta Analayst | GitHub Projects 
+-->
 <h1 align="center">👋 Hi, I'm Marija!</h1>
 
 💻 Data Analyst sharing my projects and growth in tech   
