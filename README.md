@@ -14,7 +14,6 @@ marijatech | E-commerce Sales Dashboard | Power BI Project | SQL Analysis | Data
 
 ## 📊 Marija's GitHub Stats
 
-![Marijatech GitHub Stats](https://github-readme-stats.vercel.app/api?username=marijatech&show_icons=true&theme=dark&hide_rank=false)
 
 <table>
   <tr>
