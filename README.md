@@ -15,6 +15,16 @@ marijatech | E-commerce Sales Dashboard | Power BI Project | SQL Analysis | Data
 ## 📊 Marija's GitHub Stats
 
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marijatech&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="Marija's GitHub stats" />
+</p>
+
+## 📚 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marijatech&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 <table>
   <tr>
     <th>⭐ Total Stars Earned</th>
