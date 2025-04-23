@@ -27,7 +27,7 @@ marijatech | E-commerce Sales Dashboard | Power BI Project | SQL Analysis | Data
     <td align="center">12</td>
     <td align="center">389</td>
     <td align="center">9</td>
-    <td align="center">3</td>
+    <td align="center">0</td>
     <td align="center">2</td>
   </tr>
 </table>
